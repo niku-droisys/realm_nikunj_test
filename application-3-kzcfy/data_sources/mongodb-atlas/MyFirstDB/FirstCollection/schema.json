@@ -1,0 +1,14 @@
+{
+    "properties": {
+        "City": {
+            "bsonType": "string"
+        },
+        "Name": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "FirstCollection"
+}

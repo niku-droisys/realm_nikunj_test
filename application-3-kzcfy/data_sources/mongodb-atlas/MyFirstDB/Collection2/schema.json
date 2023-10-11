@@ -1,0 +1,14 @@
+{
+    "properties": {
+        "Address": {
+            "bsonType": "string"
+        },
+        "Name": {
+            "bsonType": "string"
+        },
+        "id": {
+            "bsonType": "int"
+        }
+    },
+    "title": "Collection2"
+}
