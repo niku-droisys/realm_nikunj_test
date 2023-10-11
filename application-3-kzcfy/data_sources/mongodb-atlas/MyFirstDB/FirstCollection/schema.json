@@ -11,6 +11,9 @@
         },
         "Address": {
             "bsonType": "string"
+        },
+        "Address1": {
+            "bsonType": "string"
         }
     },
     "title": "FirstCollection"
